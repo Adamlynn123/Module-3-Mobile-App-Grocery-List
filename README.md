@@ -1,4 +1,3 @@
-# Module-3-Mobile-App-Grocery-List
 # Overview
 
 The purpose of creating this app is to gain knowledge on app development and trying to learn new programming languages. I decided to go with Kotlin as my programming language because it is easier to understand and it is becoming more popular than Java in recent years. 
